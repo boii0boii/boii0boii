@@ -1,26 +1,31 @@
-<div align="center">
+<div align="center"> 
 
-  SAHIL VERMA — SOFTWARE ENGINEER
+  HEY, I'M SAHIL
 
-  Building fast, reliable systems at **Meta** — London
-  Co-founded a low-latency C++ trading engine for Indian markets
+  **Software Engineer · London**
 
-  [\[github\]](https://github.com/boii0boii) · [\[linkedin\]](https://www.linkedin.com/in/reachsahilverma/) · [\[x\]](https://x.com/boii0boii) · [\[email\]](mailto:reachsahilverma@gmail.com)
+  I build fast, reliable systems — currently at **Meta** on Messaging Integrity infra.
+  Before that, co-founded a low-latency C++ trading engine for Indian markets.
 
+  [\[linkedin\]](https://www.linkedin.com/in/reachsahilverma/) · [\[x\]](https://x.com/boii0boii) · [\[email\]](mailto:reachsahilverma@gmail.com)
+  
   </div>
 
   ---
 
-  **WHERE I WORK**
+  → Backend & systems — distributed infra, low-latency engines, trading platforms
+  → Strong in **C++**, concurrency, and high-throughput architecture
+  → Built order matching systems doing O(log N) where others did O(N²)
+  → Based in London, originally from India
+  
+  ---
 
-  **Software Engineer, Messaging Integrity** — Meta, London *(Present)*
+  **PROJECTS**
 
-  → Architected measurement infra across 4 messaging surfaces; 10% to 95% coverage
-  → Shipped audio transcription pipeline: +6.4% / +2.3% recall on detection systems
-  → Cut ML iteration cycle 5x via sampling redesign
+  | Project | What it is |
+  |---|---|
+  | [**Tradecore**](https://github.com/boii0boii/Tradecore) | Low-latency C++ trading engine — custom n-expression data structure, sub-ms order matching |
 
   ---
 
-  **WHAT I'VE BUILT**
-
-  → [**Tradecore**](https://github.com/boii0boii/Tradecore) — Low-latency C++ trading engine with custom n-expression data structure, sub-ms order matching, and multi-venue connectivity.
+  *Always up for interesting problems in systems, quant, or anything that needs to go fast.*
