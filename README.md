@@ -15,15 +15,16 @@ Before that, co-founded a low-latency C++ trading engine for Indian markets 📈
 
 ---
 
-🔧 **7 years** in backend & systems — distributed infra, low-latency engines, trading platforms  
+🔧 Backend & systems — distributed infra, low-latency engines, trading platforms  
 🧠 Strong in **C++**, concurrency, and high-throughput architecture  
-⚡ Previously built order matching systems doing O(log N) where others did O(N²)  
+⚡ Built order matching systems doing O(log N) where others did O(N²)  
 🌍 Based in London, originally from India
 
 ---
 
 ## 🗂️ Projects
 
+<!-- Add your repos below in the same format -->
 | Project | What it is |
 |---|---|
 | [**Tradecore**](https://github.com/boii0boii/Tradecore) | Low-latency C++ trading engine — custom n-expression data structure, sub-ms order matching |
