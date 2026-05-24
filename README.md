@@ -1,34 +1,26 @@
 <div align="center">
 
-# hey, I'm Sahil 👋
+  SAHIL VERMA — SOFTWARE ENGINEER
 
-**Software Engineer · London**
+  Building fast, reliable systems at **Meta** — London
+  Co-founded a low-latency C++ trading engine for Indian markets
 
-I build fast, reliable systems — currently at **Meta** on Messaging Integrity infra.  
-Before that, co-founded a low-latency C++ trading engine for Indian markets 📈
+  [\[github\]](https://github.com/boii0boii) · [\[linkedin\]](https://www.linkedin.com/in/reachsahilverma/) · [\[x\]](https://x.com/boii0boii) · [\[email\]](mailto:reachsahilverma@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reachsahilverma/)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/boii0boii)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:reachsahilverma@gmail.com)
+  </div>
 
-</div>
+  ---
 
----
+  **WHERE I WORK**
 
-🔧 Backend & systems — distributed infra, low-latency engines, trading platforms  
-🧠 Strong in **C++**, concurrency, and high-throughput architecture  
-⚡ Built order matching systems doing O(log N) where others did O(N²)  
-🌍 Based in London, originally from India
+  **Software Engineer, Messaging Integrity** — Meta, London *(Present)*
 
----
+  → Architected measurement infra across 4 messaging surfaces; 10% to 95% coverage
+  → Shipped audio transcription pipeline: +6.4% / +2.3% recall on detection systems
+  → Cut ML iteration cycle 5x via sampling redesign
 
-## 🗂️ Projects
+  ---
 
-<!-- Add your repos below in the same format -->
-| Project | What it is |
-|---|---|
-| [**Tradecore**](https://github.com/boii0boii/Tradecore) | Low-latency C++ trading engine — custom n-expression data structure, sub-ms order matching |
+  **WHAT I'VE BUILT**
 
----
-
-*Always up for interesting problems in systems, quant, or anything that needs to go fast.*
+  → [**Tradecore**](https://github.com/boii0boii/Tradecore) — Low-latency C++ trading engine with custom n-expression data structure, sub-ms order matching, and multi-venue connectivity.
